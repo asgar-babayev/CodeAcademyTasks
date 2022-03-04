@@ -14,7 +14,7 @@ namespace IntroductionTasks
             //int count = 0;
             //for (int i = firstValue; i < lastValue; i++)
             //{
-            //    if (i % 7 == 0)
+            //    if (i % 7 == 0 && i != 0)
             //    {
             //        count++;
             //    }

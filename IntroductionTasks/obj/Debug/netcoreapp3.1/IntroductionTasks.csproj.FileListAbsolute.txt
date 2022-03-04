@@ -12,3 +12,17 @@ C:\Users\asger\Desktop\Blink\IntroductionTasks\IntroductionTasks\obj\Debug\netco
 C:\Users\asger\Desktop\Blink\IntroductionTasks\IntroductionTasks\obj\Debug\netcoreapp3.1\IntroductionTasks.dll
 C:\Users\asger\Desktop\Blink\IntroductionTasks\IntroductionTasks\obj\Debug\netcoreapp3.1\IntroductionTasks.pdb
 C:\Users\asger\Desktop\Blink\IntroductionTasks\IntroductionTasks\obj\Debug\netcoreapp3.1\IntroductionTasks.genruntimeconfig.cache
+C:\Users\tu7609td3\Desktop\CodeAcademyTasks\IntroductionTasks\bin\Debug\netcoreapp3.1\IntroductionTasks.exe
+C:\Users\tu7609td3\Desktop\CodeAcademyTasks\IntroductionTasks\bin\Debug\netcoreapp3.1\IntroductionTasks.deps.json
+C:\Users\tu7609td3\Desktop\CodeAcademyTasks\IntroductionTasks\bin\Debug\netcoreapp3.1\IntroductionTasks.runtimeconfig.json
+C:\Users\tu7609td3\Desktop\CodeAcademyTasks\IntroductionTasks\bin\Debug\netcoreapp3.1\IntroductionTasks.runtimeconfig.dev.json
+C:\Users\tu7609td3\Desktop\CodeAcademyTasks\IntroductionTasks\bin\Debug\netcoreapp3.1\IntroductionTasks.dll
+C:\Users\tu7609td3\Desktop\CodeAcademyTasks\IntroductionTasks\bin\Debug\netcoreapp3.1\IntroductionTasks.pdb
+C:\Users\tu7609td3\Desktop\CodeAcademyTasks\IntroductionTasks\obj\Debug\netcoreapp3.1\IntroductionTasks.csproj.AssemblyReference.cache
+C:\Users\tu7609td3\Desktop\CodeAcademyTasks\IntroductionTasks\obj\Debug\netcoreapp3.1\IntroductionTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7609td3\Desktop\CodeAcademyTasks\IntroductionTasks\obj\Debug\netcoreapp3.1\IntroductionTasks.AssemblyInfoInputs.cache
+C:\Users\tu7609td3\Desktop\CodeAcademyTasks\IntroductionTasks\obj\Debug\netcoreapp3.1\IntroductionTasks.AssemblyInfo.cs
+C:\Users\tu7609td3\Desktop\CodeAcademyTasks\IntroductionTasks\obj\Debug\netcoreapp3.1\IntroductionTasks.csproj.CoreCompileInputs.cache
+C:\Users\tu7609td3\Desktop\CodeAcademyTasks\IntroductionTasks\obj\Debug\netcoreapp3.1\IntroductionTasks.dll
+C:\Users\tu7609td3\Desktop\CodeAcademyTasks\IntroductionTasks\obj\Debug\netcoreapp3.1\IntroductionTasks.pdb
+C:\Users\tu7609td3\Desktop\CodeAcademyTasks\IntroductionTasks\obj\Debug\netcoreapp3.1\IntroductionTasks.genruntimeconfig.cache
