@@ -7,20 +7,27 @@ namespace IntroductionTasks
         static void Main(string[] args)
         {
             #region Task 1. n-dən m-ə qədər 7ə bölünən ədələrin sayını tapın.
-            //Console.Write("Başlanğıc dəyərini daxil edin: ");
-            //int firstValue = Convert.ToInt32(Console.ReadLine());
-            //Console.Write("Bitiş dəyərini daxil edin: ");
-            //int lastValue = Convert.ToInt32(Console.ReadLine());
-            //int count = 0;
-            //for (int i = firstValue; i < lastValue; i++)
-            //{
-            //    if (i % 7 == 0 && i != 0)
-            //    {
-            //        count++;
-            //    }
-            //}
-            //Console.WriteLine(count);
-            //Console.ReadKey();
+            Console.Write("Başlanğıc dəyərini daxil edin: ");
+            int firstValue = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Bitiş dəyərini daxil edin: ");
+            int lastValue = Convert.ToInt32(Console.ReadLine());
+            int count = 0;
+            if (lastValue > firstValue)
+            {
+                for (int i = firstValue; i < lastValue; i++)
+                {
+                    if (i % 7 == 0 && i != 0)
+                    {
+                        count++;
+                    }
+                }
+            }
+            else
+            {
+                Console.WriteLine("Ikinci eded birinciden boyuk ola bilmez");
+            }
+            Console.WriteLine(count);
+            Console.ReadKey();
             #endregion
 
             #region Task 2. Ay (string) daxil edilir. Ayın neçə gündən ibarət olduğunu deyən proqram yazın.
